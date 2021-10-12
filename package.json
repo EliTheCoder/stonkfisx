@@ -1,0 +1,10 @@
+{
+  "name": "stonkfisx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "EliTheCoder <ex.games.org@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hika": "^1.1.5"
+  }
+}
